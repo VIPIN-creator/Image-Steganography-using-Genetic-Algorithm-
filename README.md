@@ -12,7 +12,7 @@ Given below are some different scanning starting points in differnet directions.
  - Chromosome Representation
  
 | Gene name | Value range | Length | Description |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Direction | 0–15 | 4 Bits | Direction of host image pixel scanning |
 | X-offset | 0–255 | 8 Bits | X-offset of starting point |
 | Y-offset | 0–255 | 8 Bits | Y-offset of starting point |
