@@ -19,23 +19,15 @@
 OpenCv, numpy, Pillow, math, copy, random
 ```
 
-## Usage
-
-```sh
-npm dev
-```
-
 ## Author
 
 👤 **Vipin Tripathi**
 
-* Website: https://vipin-creator.github.io/
-* Github: [@VIPIN-creator](https://github.com/VIPIN-creator)
 * LinkedIn: [@vipin-creator](https://linkedin.com/in/vipin-creator)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+Contributions are welcomed🤗
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
