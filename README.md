@@ -1,11 +1,6 @@
 # 
 
 <h1 align="center">Image-Steganography-using-Genetic-Algorithm 🎭</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
 
 > In this project a novel image steganography method is imlpemented using Genetic Algorithm with high embedding capacity and obtained results are satisfactory from the aspect of PSNR and capacity.
 
