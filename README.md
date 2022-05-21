@@ -6,7 +6,7 @@
 
 ## Idea 
  The main idea of this technique is modeling the steganography problem as a search and optimization problem. Genetic Algorithm is used here to find the best place for embedding modified secret data in host image to achieve high level of security and maximized PSNR(peak-signal to noise ratio) of stego image.
- In this project a novel image steganography method is imlpemented using Genetic Algorithm with high embedding capacity and obtained results are satisfactory from the aspect of PSNR and capacity. Given below are some different scanning starting points in differnet directions.
+ -In this project a novel image steganography method is imlpemented using Genetic Algorithm with high embedding capacity and obtained results are satisfactory from the aspect of PSNR and capacity. Given below are some different scanning starting points in differnet directions.
  ![image](https://user-images.githubusercontent.com/59695863/169637275-13c85a99-5a73-4f25-8f00-3fae3042d27f.png)
 
 
