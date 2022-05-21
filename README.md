@@ -9,7 +9,7 @@
 Given below are some different scanning starting points in differnet directions.
  ![image](https://user-images.githubusercontent.com/59695863/169637275-13c85a99-5a73-4f25-8f00-3fae3042d27f.png)
  
- - Chromosome Representation
+ 1. Chromosome Representation
  
 | Gene name | Value range | Length | Description |
 | ------------- | ------------- | ------------- | ------------- |
