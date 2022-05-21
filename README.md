@@ -5,11 +5,19 @@
 > Steganography is knowledge and art of hiding secret data into information which is largely used in information security systems. The purpose of a steganography algorithm is hiding a large amount of secret data into a meaningful host media such that the embedded secret data are concealed to prevent the attack of unauthorized persons. *The cover or host image* is referred as the original image without the embedded secret message, while the image that is obtained by embedding secret message into cover image without destroying the cover image is termed as *stego image*.
 
 ## Idea 
- The main idea of this technique is modeling the steganography problem as a search and optimization problem in which the purpose is finding the best direction and the best starting point in host image for hiding secret data such that the PSNR of the stego-image maximized by using *Genetic Algoithm*.
+ The main idea of this technique is modeling the steganography problem as a search and optimization problem in which the purpose is finding the best direction and the best starting point in host image for hiding secret data such that the PSNR of the stego-image is maximized by using *Genetic Algoithm*.
 Given below are some different scanning starting points in differnet directions.
  ![image](https://user-images.githubusercontent.com/59695863/169637275-13c85a99-5a73-4f25-8f00-3fae3042d27f.png)
  
- - In this project a novel image steganography method is imlpemented using Genetic Algorithm with high embedding capacity and obtained results are satisfactory from the aspect of PSNR and capacity.
+ - Chromosome Representation
+ 
+| Gene name | Value range | Length | Description |
+| ------------- | ------------- |
+| Direction | 0–15 | 4 Bits | Direction of host image pixel scanning |
+| X-offset | 0–255 | 8 Bits | X-offset of starting point |
+| Y-offset | 0–255 | 8 Bits | Y-offset of starting point |
+| SB-Pole | 0–1 |1 Bit | Pole of secret bits |
+| SB-Dire | 0–1 |1 Bit | Direction of secret bits |
 
 
 
