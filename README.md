@@ -18,11 +18,11 @@ Given below are some different scanning starting points in differnet directions.
 | Y-offset | 0–255 | 8 Bits | Y-offset of starting point |
 | SB-Pole | 0–1 |1 Bit | Pole of secret bits |
 | SB-Dire | 0–1 |1 Bit | Direction of secret bits |
-
-  - All the 16 different directions
+ 
+   - All the 16 different directions
 ![directions](https://user-images.githubusercontent.com/59695863/169637821-e6c879a0-72c7-495b-85dd-27486444a0bd.png)
 
-  - Possible values for SB-Pole, SB-Dire and BP-Dire genes.
+   - Possible values for SB-Pole, SB-Dire and BP-Dire genes.
 
 ## Python Libraries 
 
